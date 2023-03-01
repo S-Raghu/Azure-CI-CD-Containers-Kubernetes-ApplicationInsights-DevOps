@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
         - name: sanoobkcicdcontainersdemo 
-          image: acrdemo777.azurecr.io/sanoobkcicdcontainersdemo 
+          image: raghu486.azurecr.io/sanoobkcicdcontainersdemo 
           ports:
           - containerPort: 80
